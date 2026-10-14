@@ -1,0 +1,6 @@
+{
+  "name": "Support Portal",
+  "description": "Enterprise support portal with role-based access control for employees and managers, enquiry tracking, knowledge base, and departmental input workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
